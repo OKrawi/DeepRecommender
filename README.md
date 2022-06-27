@@ -1,3 +1,10 @@
+# Bahçeşehir Üniversitesi: ARI5004 Deep Learning - Final Project
+The below README is the original written by the authors of this paper. To reproduce the results, you need to follow the instructions provided below to download the data and run the required commands. 
+
+To run each of the required hyperparameters sensitivity testings, the commands under sections "Train the model" and "Run inference on the Test set" must be altered according to which hyperparameters you want to test. 
+
+Furthermore, several files were uploaded for creating the graphs uploaded with the report. There names start with the word "Graph". They contain the results from each epoch for each different value for the different models trained on different hyperparameter values. Simply run them to get the graphs. 
+
 # Deep AutoEncoders for Collaborative Filtering
 This is not an official NVIDIA product. It is a research project described in: "Training Deep AutoEncoders for Collaborative Filtering"(https://arxiv.org/abs/1708.01715)
 
